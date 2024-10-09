@@ -1,0 +1,11 @@
+button {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #333;
+}
